@@ -8,5 +8,5 @@
   * Sell this base/non edited version of the plugin.
   * Change the author (Kalendarky).
   * Sell slightly edited / or only bug fixed version of this plugin
-* You need to ship this license with every version of this plugin in compiled / or source code form. Even if you changed something, this license still needs to be included, and used. You cannot remove this license.
+* You need to ship this license with every version of this plugin in compiled / or source code form. Even if you changed something, this license still needs to be included, and used. You cannot remove/ or change this license.
 ### __This plugin is given as it is, without any WARRANTY,so in no event shall the author (Kalendarky) be liable for any claims or damages that happened because of this plugin.
