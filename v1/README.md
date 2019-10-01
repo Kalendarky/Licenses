@@ -1,5 +1,5 @@
-#V1
-##Permissions:
+# V1
+## Permissions:
 * You Are Allowed to
   * Create Plugin based on this plugin
   * You are allowed to write yourself into this plugin by the following pattern: #CREDITS "YOU"
